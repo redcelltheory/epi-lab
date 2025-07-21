@@ -35,6 +35,8 @@ epi-lab/
 -   **Scripts**: Mostly written in `R`, `Python` or `Stata`.
 -   **Documents**: In Markdown (`.md`) or PDF (`.pdf`) format.
 
+---
+
 ## 🤝 Contributions
 
 This is a participatory project, and we welcome contributions! Whether it's suggesting a new analysis, helping to clean data, or providing feedback on our methods, your input is valuable. Please see the `CONTRIBUTIONS.md` file for more details on how to get involved. If you have questions or ideas, feel free to open an issue.
