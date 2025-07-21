@@ -2,6 +2,8 @@
 
 Welcome to the Epi-Lab, the public research hub of The Red Cell Theory! This repository is dedicated to to our research conducted in a participatory manner with our community. I believe in open science and transparency, containing shared datasets, statistical scripts, and results from our various participatory research initiatives.
 
+---
+
 ## 🌐 What's in this Repository?
 
 This repository houses all the components of our research projects, from raw data to final reports. The structure is designed to make our methods and findings as clear and reproducible as possible.
@@ -15,7 +17,7 @@ epi-lab/
 ├── methods/            # Research protocols and questionnaires
 ├── results/            # Visualizations, graphics, and reports
 ├── scripts/            # R, Python, or other analysis scripts
-├── CONTRIBUTING.md     # Guidelines for community contributions
+├── CONTRIBUTIONS.md     # Guidelines for community contributions
 └── README.md           # This file
 ```
 
@@ -25,12 +27,14 @@ epi-lab/
 -   **`results/`**: The outputs of our analyses. This includes `graphics/` (plots, charts) and `reports/` (summaries, articles).
 -   **`scripts/`**: Contains the code (e.g., in R or Python) used to clean the data and perform the statistical analyses, ensuring our results can be independently verified.
 
+---
+
 ## 🛠️ Tools & Formats
 
 -   **Data Files**: Primarily in `.csv` or `.json` formats.
--   **Scripts**: Mostly written in `R` or `Python` using libraries like `pandas`, `ggplot2`, `matplotlib`, and `scipy`.
+-   **Scripts**: Mostly written in `R`, `Python` or `Stata`.
 -   **Documents**: In Markdown (`.md`) or PDF (`.pdf`) format.
 
 ## 🤝 Contributions
 
-This is a participatory project, and we welcome contributions! Whether it's suggesting a new analysis, helping to clean data, or providing feedback on our methods, your input is valuable. Please see the `CONTRIBUTING.md` file for more details on how to get involved. If you have questions or ideas, feel free to open an issue.
+This is a participatory project, and we welcome contributions! Whether it's suggesting a new analysis, helping to clean data, or providing feedback on our methods, your input is valuable. Please see the `CONTRIBUTIONS.md` file for more details on how to get involved. If you have questions or ideas, feel free to open an issue.
