@@ -10,12 +10,14 @@ This repository houses all the components of our research projects, from raw dat
 
 ```
 epi-lab/
+├── archives/                # Archived projects, backups, and deprecated files
+├── dashboard/               # Interactive dashboard for visuals
 ├── datasets/           # Datasets used in our analyses
-│   ├── cleaned/        # Processed and cleaned data files
-│   └── raw/            # Original, untouched raw data
-├── documentation/      # Data dictionaries, codebooks, and project info
-├── methods/            # Research protocols and questionnaires
-├── results/            # Visualizations, graphics, and reports
+│   ├── cleaned/        # Processed, ready-to-analyze data files
+│   └── raw/            # Original, unprocessed source data
+├── documentation/      # Data dictionaries and project informations
+├── methods/            # Research protocols, surveys and methodological notes
+├── results/            # graphics, tables, and analysis reports
 ├── scripts/            # R, Python, or other analysis scripts
 ├── CONTRIBUTIONS.md     # Guidelines for community contributions
 └── README.md           # This file
@@ -40,3 +42,4 @@ epi-lab/
 ## 🤝 Contributions
 
 This is a participatory project, and we welcome contributions! Whether it's suggesting a new analysis, helping to clean data, or providing feedback on our methods, your input is valuable. Please see the `CONTRIBUTIONS.md` file for more details on how to get involved. If you have questions or ideas, feel free to open an issue.
+
